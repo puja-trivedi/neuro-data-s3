@@ -1,0 +1,1 @@
+c519d9ca-1300-41e3-9e89-31b23a73b037 autoenable=true bucket=sample-neurodata-public-puja datacenter=US encryption=none host=s3.amazonaws.com name=public-s3 port=80 storageclass=STANDARD type=S3 timestamp=1720831149s
